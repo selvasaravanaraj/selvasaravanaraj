@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@selvasaravanaraj**  
+- 👋 Hi, I’m **SELVA SARAVANA RAJ**  
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**  
 - 💞️ Eager to collaborate on exciting **developer roles/projects** to contribute my skills & expertise  
 - 📫 Reach me at **selvasaravanarajj@gmail.com**  
