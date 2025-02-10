@@ -6,7 +6,7 @@
 
 ---
 
-## 📫 Connect with Me  
+## CONNECT WITH ME:  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/selva-saravana-raj-j">
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+## LANGUAGES AND TOOLS:  
 
 <p align="left">
   <!-- Languages -->
