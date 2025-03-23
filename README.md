@@ -26,8 +26,8 @@
 ### 📌 Projects
 
 - 🔗 [Portfolio Website](https://selva-portfolio.vercel.app/) - Showcasing my work & skills
-- 🍽️ [Delicious Restaurant](https://github.com/selvasaravanaraj/Delicious-Restaurant) - A restaurant website project
-- 🎓 [Colmar Academy](https://github.com/selvasaravanaraj/ColmarAcademy) - An educational platform
+- 🎓 [Online Tutor](https://online-tutor-7f7o-lcp52hrfb-selvasaravanarajs-projects.vercel.app/)
+
 
 📌 Explore more on my **[GitHub Repositories](https://github.com/selvasaravanaraj?tab=repositories)**
 
