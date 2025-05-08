@@ -27,6 +27,9 @@
 
 - 🔗 [Portfolio Website](https://selva-portfolio.vercel.app/) - Showcasing my work & skills
 - 🎓 [Online Tutor](https://online-tutor-7f7o-lcp52hrfb-selvasaravanarajs-projects.vercel.app/)
+- 🔗 [LOAN CALCULATOR ](https://loan-calculator-ruby.vercel.app/))
+- 🔗 [CLINIC TOKEN SYSTEM](https://nvron-clinic-management-client.vercel.app/) 
+
 
 
 📌 Explore more on my **[GitHub Repositories](https://github.com/selvasaravanaraj?tab=repositories)**
