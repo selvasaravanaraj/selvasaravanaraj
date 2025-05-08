@@ -16,7 +16,7 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: JavaScript, Python, Java, C++
+- 💻 **Languages**: JavaScript, Python, C++
 - 🌐 **Frontend**: React.js, Next.js, HTML, CSS, Tailwind CSS
 - 🔧 **Backend**: Node.js, Express.js, MongoDB, Firebase
 - 🛠️ **Tools & Platforms**: Git, GitHub, Vercel, Netlify, Postman
