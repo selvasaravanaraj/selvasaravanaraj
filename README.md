@@ -8,7 +8,7 @@
 
 - 🔭 Currently an **Intern at 8Queens Software Technologies**
 - 📚 Learning **Data Structures & Algorithms (DSA)**
-- 💡 Passionate about **Web Development, UI/UX, and Open Source**
+- 💡 Passionate about **Software Developement,Web Developement and Open Source**
 - 🤝 Open to collaborating on **exciting projects and developer roles**
 - ✉️ Reach me at **selvasaravanarajj@gmail.com**
 
