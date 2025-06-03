@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently an **Intern at 8Queens Software Technologies**
+- 🔭 Currently I'm **Works at Leada Digital Dynamics**
 - 📚 Learning **Data Structures & Algorithms (DSA)**
 - 💡 Passionate about **Software Developement,Web Developement and Open Source**
 - 🤝 Open to collaborating on **exciting projects and developer roles**
