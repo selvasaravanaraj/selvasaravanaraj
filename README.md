@@ -1,6 +1,6 @@
 ## Hi there, I'm Selva Saravana Raj! 👋
 
-🎨 Full Stack Developer | 🏆 Artist | ♟️ Chess Enthusiast
+🎨 Software Developer | 🏆 Artist | ♟️ Chess Enthusiast
 
 ---
 
