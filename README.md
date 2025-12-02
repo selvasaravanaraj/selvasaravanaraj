@@ -1,71 +1,105 @@
-## Hi there, I'm Selva Saravana Raj! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Selva+Saravana+Raj;Full+Stack+Developer+(MERN);Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
+</div>
 
-🎨 **Software Developer | 🏆 Artist | ♟️ Chess Enthusiast**
+<div align="center">
+  <h3>🎨 Software Developer | 🏆 Artist | ♟️ Chess Enthusiast</h3>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/selva-saravana-raj-j" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_selva_007___" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/selvaleetcode007/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:selvasaravanarajj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working at **Leada Digital Dynamics**
-- 📚 Learning **Data Structures & Algorithms (DSA)**
-- 💡 Passionate about **Full Stack Development (MERN), Web Development, and Open Source**
-- 🤝 Open to collaborating on **exciting projects and developer roles**
-- ✉️ Reach me at **selvasaravanarajj@gmail.com**
+- 🔭 Currently working at **Leada Digital Dynamics**
+- 📚 Mastering **Data Structures & Algorithms (DSA)**
+- 💡 Passionate about **Full Stack (MERN), Web Development, and Cloud Tech**
+- 🤝 Open to collaborating on **innovative projects**
 
 ---
 
-### 🌎 Connect With Me
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-<a href="https://www.linkedin.com/in/selva-saravana-raj-j" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="selvasaravanaraj" /></a>
-<a href="https://www.instagram.com/_selva_007___" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="selvasaravanaraj" /></a>
-<a href="https://leetcode.com/u/selvaleetcode007/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="selvasaravanaraj" /></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
- 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45"/>
+  
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="render" height="40"/>
+  <img src="https://img.shields.io/badge/Nodemailer-blue?style=flat-square&logo=gmail&logoColor=white" alt="nodemailer" height="40"/>
 </div>
 
 ---
 
-### 📌 Projects
+### 📌 Featured Projects
 
-- 🔗 [Portfolio Website](https://selva-portfolio.vercel.app/) - Showcasing my work & skills
-- 🎓 [Online Tutor](https://online-tutor-7f7o-lcp52hrfb-selvasaravanarajs-projects.vercel.app/)
-- 🔗 [LOAN CALCULATOR](https://loan-calculator-ruby.vercel.app/)
-- 🔗 [CLINIC TOKEN SYSTEM](https://nvron-clinic-management-client.vercel.app/)
-
-📌 Explore more on my **[GitHub Repositories](https://github.com/selvasaravanaraj?tab=repositories)**
+| Project | Description | Links |
+| :--- | :--- | :---: |
+| **Portfolio Website** | My personal digital garden showcasing skills & work. | [🔗 Live](https://selva-portfolio.vercel.app/) |
+| **Online Tutor** | An educational platform for student-tutor connection. | [🎓 Live](https://online-tutor-7f7o-lcp52hrfb-selvasaravanarajs-projects.vercel.app/) |
+| **Loan Calculator** | A financial tool built with logic and precision. | [🔗 Live](https://loan-calculator-ruby.vercel.app/) |
+| **Clinic Token System** | Queue management system for healthcare. | [🔗 Live](https://nvron-clinic-management-client.vercel.app/) |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-![Selva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvasaravanaraj&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=selvasaravanaraj&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvasaravanaraj&layout=compact&theme=radical)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=selvasaravanaraj&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvasaravanaraj&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvasaravanaraj&theme=tokyonight&hide_border=true" />
+</div>
 
-🔥 *Let's build something amazing together!* 🚀
+<div align="center">
+  <br/>
+  🔥 <i>"Code is like humor. When you have to explain it, it’s bad."</i> 🚀
+</div>
