@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/u/selvam-07/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" height="32"/>
   </a>
-  <a href="https://selva-portfolio.vercel.app" target="_blank">
+  <a href="https://www.selvasaravanaraj.online" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white&labelColor=000000" alt="Portfolio" height="32"/>
   </a>
   <a href="mailto:selvasaravanarajj@gmail.com" target="_blank">
