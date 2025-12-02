@@ -81,17 +81,17 @@
 
 ### **Production SaaS Applications @ Leada Digital Dynamics**
 
-#### **Lead Management Platform**  
-*Enterprise-level SaaS for lead tracking and management*  
+#### **LEADA TOKEN MANAGEMENT SYSTEM**  
+*Enterprise-level SaaS for Clinics & Hospital management*  
 ![Tech](https://img.shields.io/badge/Next.js-Node.js-PostgreSQL-000000?style=flat-square)  
 🔗 **Live**: [https://token.leada360.com](https://token.leada360.com)  
 ✅ **Features**: Real-time analytics, Role-based access, Automated workflows
 
-#### **Healthcare Management System**  
+#### **EMR management system**  
 *Comprehensive patient care and clinic management platform*  
 ![Tech](https://img.shields.io/badge/React-Express-MongoDB-61DAFB?style=flat-square)  
 🔗 **Live**: [https://carehub.leada360.com](https://carehub.leada360.com)  
-✅ **Features**: Appointment scheduling, Patient records, Billing system
+✅ **Features**: Modern Prescribing , Patient records, Billing system
 
 ---
 
@@ -105,8 +105,8 @@
 ☁️ **Deployment**: Vercel + Render  
 📊 **Features**: Property listings, GIS mapping, Document management, Payment gateway
 
-### **Zoho CRM Clone**  
-*Enterprise CRM system with sales automation*  
+### **Zoho Store Clone**  
+*Zoho Store Code Structure is there in me*  
 ![Stack](https://img.shields.io/badge/MERN-MaterialUI-Redux-47A248?style=flat-square)  
 🔑 **Contact for Code Access**: +91 82483 53916  
 🎯 **Features**: Contact management, Sales pipeline, Analytics dashboard, Email integration
