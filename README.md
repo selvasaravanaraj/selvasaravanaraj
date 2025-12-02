@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Selva+Saravana+Raj;Full+Stack+Developer;SaaS+Architect;Code+Artisan)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Selva+Saravana+Raj;Full+Stack+Developer;SaaS+Architect)
 
 <h3>🚀 Building Scalable Web Solutions | 🎯 Problem Solver | 🔥 Tech Enthusiast</h3>
 
@@ -37,7 +37,7 @@
 - 📚 **Focus Areas**: MERN Stack, System Design, Cloud Architecture
 - 🏆 **LeetCode**: 50+ Problems solved (DSA Expert)
 - 🤝 **Open For**: Technical collaborations & SaaS development projects
-- 📞 **Contact**: +91 82483 53916 | 📧 selvasaravanarajj@gmail.com
+
 
 ---
 
