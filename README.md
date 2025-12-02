@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/_selva_007___" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://leetcode.com/u/selvam-07/" target="_blank">
+  <a href="https://leetcode.com/u/selvaleetcode007/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
@@ -73,9 +73,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selvasaravanaraj&show_icons=true&theme=radical&hide_border=true" alt="Selva's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvasaravanaraj&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selvasaravanaraj&show_icons=true&theme=tokyonight&hide_border=true" alt="Selva's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvasaravanaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvasaravanaraj&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br/>
