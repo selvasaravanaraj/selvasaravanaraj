@@ -18,9 +18,6 @@
   <a href="https://leetcode.com/u/selvaleetcode007/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:selvasaravanarajj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </div>
 
 ---
@@ -31,6 +28,7 @@
 - 📚 Mastering **Data Structures & Algorithms (DSA)**
 - 💡 Passionate about **Full Stack (MERN), Web Development, and Cloud Tech**
 - 🤝 Open to collaborating on **innovative projects**
+- ✉️ Reach me at **selvasaravanarajj@gmail.com**
 
 ---
 
@@ -57,10 +55,6 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45"/>
-  
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="render" height="40"/>
-  <img src="https://img.shields.io/badge/Nodemailer-blue?style=flat-square&logo=gmail&logoColor=white" alt="nodemailer" height="40"/>
 </div>
 
 ---
@@ -79,27 +73,15 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=selvasaravanaraj&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=selvasaravanaraj&show_icons=true&theme=tokyonight&hide_border=true" alt="Selva's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvasaravanaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvasaravanaraj&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
+
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=selvasaravanaraj&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvasaravanaraj&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvasaravanaraj&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <br/>
   🔥 <i>"Code is like humor. When you have to explain it, it’s bad."</i> 🚀
 </div>
