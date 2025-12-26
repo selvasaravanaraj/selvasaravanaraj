@@ -111,11 +111,7 @@
 🔑 **Contact for Code Access**: +91 82483 53916  
 🎯 **Features**: Contact management, Sales pipeline, Analytics dashboard, Email integration
 
-### **Online Tutor Platform**  
-*Educational platform connecting students with tutors*  
-![Tech](https://img.shields.io/badge/MERN_Stack-47A248?style=flat-square)  
-🔗 **Live**: [https://online-tutor-platform.vercel.app](https://online-tutor-7f7o-lcp52hrfb-selvasaravanarajs-projects.vercel.app/)  
-📚 **Features**: Video classes, Progress tracking, Payment system
+
 
 ### **Portfolio Website**  
 *Modern developer portfolio with interactive elements*  
