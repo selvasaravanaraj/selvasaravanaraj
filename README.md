@@ -80,18 +80,3 @@ A professional software engineer focused on designing, hardening, and scaling mi
 
 ---
 
-## Directory Matrix & Code Topology
-
-```bash
-RCOS-V0/
-├── backend/                  # Express.js TypeScript Core API
-│   ├── src/
-│   │   ├── config/           # Application Configuration & Environment Anchors
-│   │   ├── middlewares/      # Security Layer (Helmet, CORS, Rate Limiters, Auth Guards)
-│   │   └── modules/          # Domain Logic Blocks (leads, rap, crm, b2b-orders, compliance)
-├── frontend/                 # React Single Page Application (Production Client)
-│   ├── src/
-│   │   ├── components/       # Core UI Components, Modals, and Route Guards
-│   │   ├── pages/            # Analytical Views, Qualification Matrices, Partner Terminals
-│   │   └── stores/           # Global State Hydration & Authentication Engines
-└── supabase/                 # PostgreSQL Database Schemas, RLS Policies & Migration Scripts
