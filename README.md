@@ -1,85 +1,84 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Selva+Saravana+Raj;Full+Stack+SaaS+Architect;Problem+Solver+by+Design)
+<!-- Premium Dynamic Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f2937&height=180&section=header&text=Selva%20Saravana%20Raj&fontSize=45&fontColor=36BCF7&animation=twinkling" width="100%"/>
 
-<h3>🛠️ Engineering Scalable SaaS | 🌐 Full Stack Expert | 🤖 AI Integration</h3>
+### 🚀 Senior Full Stack SaaS Architect | AI Integrations Expert
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/selva-saravana-raj-j"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.selvasaravanaraj.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://leetcode.com/u/selvam-07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:selvasaravanarajj@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selva-saravana-raj-j)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.selvasaravanaraj.online)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/selvam-07/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selvasaravanarajj@gmail.com)
 
 </div>
 
 ---
 
-## 📖 Executive Summary
+## ⚡ Executive Brief
 
-Full-stack engineer at **Leada Digital Dynamics** with a track record of transforming complex requirements into high-performance SaaS products. I specialize in the **MERN stack**, architecting multi-tenant systems, and integrating AI to automate business workflows. 
+I am a high-velocity **Full Stack Engineer** at *Leada Digital Dynamics*, specializing in engineering elite, multi-tenant SaaS architectures, enterprise ERP/CRM platforms, and AI-driven workflow engines. I translate complex corporate business logic into performant, production-ready systems utilizing the modern JavaScript/TypeScript ecosystem.
 
-- ⚡ **Productivity**: Delivered 2+ enterprise SaaS platforms from ideation to production.
-- 🏗️ **Architecture**: Focused on Clean Code, Microservices, and Scalable Cloud Infrastructures.
-- 🧠 **DSA**: Solving complex problems daily to optimize system performance.
+*   **⚡ High-Impact Delivery:** Shipped multiple enterprise-grade SaaS platforms from absolute zero to production.
+*   **🏗️ Advanced Architecture:** Deep expertise in microservices, secure Role-Based Access Control (RBAC), and cloud infrastructure optimization.
+*   **🧠 Algorithmic Problem Solver:** Obsessed with data structure optimizations to reduce compute costs and latency.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### 🌐 Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### 🌐 Frontend Engineering
+`React.js` `Next.js (SSR/App Router)` `TypeScript` `Redux Toolkit` `Tailwind CSS` `Material UI` `HTML5/CSS3`
 
-### ⚙️ Backend & Infrastructure
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.dot.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🏢 Professional Impact @ Leada Digital Dynamics
-
-### 🏥 Leada Token Management System
-*A high-concurrency SaaS platform for healthcare traffic management.*
-- **Tech**: Next.js, Node.js, PostgreSQL, AWS.
-- **Outcome**: Optimized clinic workflow efficiency by automating real-time patient queueing.
-- **Key Feature**: Advanced Role-Based Access Control (RBAC) and real-time analytical dashboards.
-
-### 📁 CareHub EMR System
-*Comprehensive Medical Records platform focusing on data integrity.*
-- **Tech**: React, Express, MongoDB, Redis.
-- **Outcome**: Modernized prescription management, reducing paper-based errors for medical practitioners.
+### ⚙️ Backend, Databases & Infrastructure
+`Node.js` `Express.js` `PostgreSQL` `MongoDB` `Redis` `Supabase` `AWS (S3, EC2)` `Docker` `RESTful & GraphQL APIs`
 
 ---
 
-## 🧪 Featured Lab Projects
+## 🏢 Enterprise Production Impact
+
+### 🏥 Leada Token Management System (Healthcare SaaS)
+> **Role:** Lead Architect & Developer
+*   **System Overview:** A high-concurrency healthcare SaaS platform designed for real-time clinic workflow optimization and traffic management.
+*   **Tech Stack:** Next.js, Node.js, PostgreSQL, AWS, WebSockets.
+*   **Key Achievement:** Automated patient queue mechanics, reducing clinic wait times and drastically improving operational flow. Built a secure, granular multi-tenant RBAC system with high-end analytical dashboards.
+
+### 📁 CareHub EMR System (Enterprise Healthcare ERP)
+> **Role:** Full Stack Engineer
+*   **System Overview:** An enterprise Electronic Medical Records system built for deep data integrity, strict privacy standards, and low-latency prescription handling.
+*   **Tech Stack:** React, Express, MongoDB, Redis.
+*   **Key Achievement:** Digitized complex clinical prescription workflows, eliminating manual, paper-based entry errors for healthcare networks.
+
+---
+
+## 🧪 Advanced R&D Lab Projects
 
 ### 🏘️ Real Estate GIS Platform
-*End-to-end plot management system.*
-- **Innovation**: Integrated GIS mapping for spatial property visualization.
-- **Security**: Implemented secure document management via Supabase storage.
+*   **Innovation:** End-to-end multi-plot management engine featuring **GIS mapping** for real-time spatial property analysis.
+*   **Infrastructure:** Secure, high-performance document handling pipeline deployed via Supabase Storage buckets.
 
-### 🤖 AI Content Engine
-*Automated SEO-optimized product description generator.*
-- **Integration**: OpenAI API coupled with custom prompts for brand-voice alignment.
+### 🤖 Generative AI Content Engine
+*   **Innovation:** Automated, high-volume SEO product description engine.
+*   **Integration:** Customized OpenAI API layers utilizing advanced prompt engineering workflows to match specific corporate brand voices.
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Engineered Analytics & Metrics
 
 <div align="center">
 
-| **GitHub Activity** | **Coding Proficiency** |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvasaravanaraj&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvasaravanaraj&layout=compact&theme=tokyonight&hide_border=true) |
+| 🌌 GitHub Activity Matrix | ⚡ Core Language Distribution |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=selvasaravanaraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="410px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvasaravanaraj&layout=compact&theme=tokyonight&hide_border=true" width="410px"/> |
 
 </div>
 
 ---
 
-## 🎯 On My Radar
-- 🔒 **Security**: Hardening SaaS applications with OWASP Top 10 standards.
-- 🚀 **Performance**: Mastering Server-Side Rendering (SSR) and Edge Functions.
-- 🌍 **Open Source**: Contributing to the MERN ecosystem.
+## 🎯 Current Engineering Focus
+*   🔒 **Application Hardening:** Deep diving into OWASP Top 10 security compliance paradigms for cloud platforms.
+*   🚀 **Edge Computing:** Implementing Next.js Edge Functions and Middleware to drop Global TTFB (Time to First Byte).
+*   🌐 **Scalable Infrastructure:** Moving setups toward automated Dockerized CI/CD pipelines.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=60&section=footer" width="100%"/>
+</div>
