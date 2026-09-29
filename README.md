@@ -12,7 +12,7 @@ I enjoy working across the full development lifecycle — understanding requirem
 
 ### Frontend
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Angular-18181B?style=for-the-badge&logo=angular&logoColor=FFFFFF" />
@@ -20,17 +20,17 @@ I enjoy working across the full development lifecycle — understanding requirem
   <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
 </p>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Vite-18181B?style=for-the-badge&logo=vite&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Material%20UI-18181B?style=for-the-badge&logo=mui&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Material_UI-18181B?style=for-the-badge&logo=mui&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
 </p>
 
 ### Backend
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=FFFFFF" />
@@ -39,7 +39,7 @@ I enjoy working across the full development lifecycle — understanding requirem
 
 ### Databases & Data
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
@@ -47,7 +47,7 @@ I enjoy working across the full development lifecycle — understanding requirem
 
 ### Cloud & Development
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/AWS-18181B?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Render-18181B?style=for-the-badge&logo=render&logoColor=FFFFFF" />
@@ -57,14 +57,14 @@ I enjoy working across the full development lifecycle — understanding requirem
 
 ### API Integration
 
-<p align="left">
-  <img src="https://img.shields.io/badge/REST%20APIs-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/API%20Integration-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Webhooks-18181B?style=for-the-badge&logoColor=FFFFFF" />
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Integration-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Razorpay-18181B?style=for-the-badge&logo=razorpay&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Chargebee-18181B?style=for-the-badge&logo=chargebee&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Zoho%20APIs-18181B?style=for-the-badge&logo=zoho&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/AWS%20SES-18181B?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Chargebee-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zoho_APIs-18181B?style=for-the-badge&logo=zoho&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/AWS_SES-18181B?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
 </p>
 
 ---
@@ -72,6 +72,8 @@ I enjoy working across the full development lifecycle — understanding requirem
 # Things I've Been Building With
 
 Selected work across **enterprise systems, SaaS products and B2B platforms**.
+
+---
 
 ## NVRON
 
@@ -81,16 +83,16 @@ Worked on an enterprise ERP platform covering internal business and operational 
 
 **Technology**
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/RLS-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Zoho%20API-18181B?style=for-the-badge&logo=zoho&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/AWS%20SES-18181B?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/SMTP-18181B?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RLS-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zoho_API-18181B?style=for-the-badge&logo=zoho&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/AWS_SES-18181B?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SMTP-18181B?style=for-the-badge" />
 </p>
 
 ---
@@ -103,39 +105,39 @@ Worked on an operational and business platform involving customer workflows, dat
 
 **Technology**
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/TanStack_Query-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Razorpay-18181B?style=for-the-badge&logo=razorpay&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/RLS-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/AWS%20SES-18181B?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RLS-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS_SES-18181B?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
 </p>
 
 ---
 
 ## Veerix Biotech
 
-### B2B Web Platform
+### B2B Pharmaceutical & Biotech Marketplace
 
-Developed a **responsive, SEO-focused B2B web experience** optimized for both mobile and desktop users.
+Developed a **responsive, SEO-focused B2B web experience** optimized for mobile and desktop users.
 
 **Technology & Focus**
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/SEO-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Responsive%20UI-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Mobile%20Optimized-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Desktop%20Optimized-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/B2B-18181B?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SEO-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive_UI-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile_Optimized-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop_Optimized-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B2B_Marketplace-18181B?style=for-the-badge" />
 </p>
 
 **Website**
@@ -150,28 +152,35 @@ https://www.veerixbiotech.in/
 
 A token and appointment management platform built around **clinic workflows, queue management and patient experience**.
 
+**Architecture**
+
+<p>
+  <img src="https://img.shields.io/badge/Multi--Tenant_Architecture-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wildcard_Subdomain-18181B?style=for-the-badge" />
+</p>
+
 **Technology**
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Razorpay-18181B?style=for-the-badge&logo=razorpay&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/AWS%20SES-18181B?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/AWS_SES-18181B?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" />
 </p>
 
 **Security**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AES--256-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/RBAC-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Input%20Validation-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Rate%20Limiting-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/CORS-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Secure%20Headers-18181B?style=for-the-badge&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Tenant%20Isolation-18181B?style=for-the-badge&logoColor=FFFFFF" />
+<p>
+  <img src="https://img.shields.io/badge/AES--256-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Input_Validation-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rate_Limiting-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CORS-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure_Headers-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tenant_Isolation-18181B?style=for-the-badge" />
 </p>
 
 **Demo**
@@ -188,11 +197,11 @@ Digital identity platform for creating and sharing professional business profile
 
 **Technology**
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
 </p>
 
 **Profile**
