@@ -1,25 +1,28 @@
 # Hey, I'm Selva 👋
 
-### Software Development Engineer | Full-Stack Developer | Solo SaaS Builder
+### Software Development Engineer | Full-Stack Developer | Product Builder
 
-I build and ship real-world software across **web applications, SaaS products, enterprise systems, and business platforms**.
+I build and contribute to real-world software across **SaaS products, enterprise applications, business platforms, and web systems**.
 
-I work across the full development lifecycle — from **idea → architecture → development → AI-assisted coding → deployment → iteration**.
+I enjoy working across the complete development lifecycle — from understanding requirements and designing solutions to development, debugging, deployment, and continuous improvement.
+
+I also enjoy working with teams, collaborating on technical problems, and turning ideas into reliable software.
 
 ---
 
 ## ⚡ What I Do
 
 - 💻 Full-stack web development
-- 🚀 Solo SaaS product building
 - 🏢 Enterprise application development
-- 🤖 AI-assisted software development
-- 🧠 DSA & problem solving
-- 🗄️ Database design & backend engineering
+- 🚀 SaaS product development
+- 🤝 Team collaboration & technical problem solving
+- 🧠 Data Structures & Algorithmic problem solving
+- 🗄️ Backend & database engineering
 - ☁️ Cloud deployment & application hosting
 - 🔐 Authentication, RBAC & multi-tenant systems
-- 🔌 API & third-party integrations
-- ⚡ Performance, debugging & optimization
+- 🔌 API integration & third-party service integration
+- 🔗 REST APIs, webhooks & external service connectivity
+- ⚡ Debugging, optimization & performance improvement
 
 ---
 
@@ -49,15 +52,13 @@ I work across the full development lifecycle — from **idea → architecture �
 
 `Git` `GitHub` `CI/CD`
 
-### Integrations
+### Integrations & APIs
 
-`Razorpay` `AWS SES` `Zoho APIs`
+`API Integration` `REST API Integration` `Third-Party API Integration`
 
-### AI-Assisted Development
+`Razorpay` `Chargebee` `Zoho APIs`
 
-`AI Coding` `AI Debugging` `Code Refactoring`
-
-`Architecture Exploration` `Test Generation` `Documentation`
+`AWS SES` `Webhooks`
 
 ---
 
@@ -67,13 +68,29 @@ I work across the full development lifecycle — from **idea → architecture �
 
 Enterprise ERP system developed for **NVRON**, covering business and operational workflows.
 
+**Focus Areas**
+
+- Enterprise business workflows
+- Operational management
+- Database-driven applications
+- Role-based access
+- API-based architecture
+
 `React` `Node.js` `Express.js` `PostgreSQL`
 
 ---
 
 ### 📊 NVRON RCOS
 
-RCOS — a business-focused platform developed for **NVRON**.
+Business platform developed for **NVRON**, supporting operational and business workflows.
+
+**Focus Areas**
+
+- Business workflow management
+- Customer & lead operations
+- Data-driven processes
+- CRM workflows
+- API integrations
 
 `React` `Node.js` `Express.js` `Supabase`
 
@@ -81,9 +98,16 @@ RCOS — a business-focused platform developed for **NVRON**.
 
 ### 🌐 Veerix Biotech
 
-B2B **SEO-optimized business website** developed for Veerix Biotech.
+B2B **SEO-optimized website** developed for Veerix Biotech.
 
 🔗 https://www.veerixbiotech.in/
+
+**Focus Areas**
+
+- B2B website development
+- SEO optimization
+- Responsive UI
+- Business-focused web experience
 
 `React` `SEO` `Responsive UI` `Web Development`
 
@@ -91,7 +115,21 @@ B2B **SEO-optimized business website** developed for Veerix Biotech.
 
 ### 🏥 LEADA360 Token
 
-A **SaaS token & appointment management platform** built for healthcare workflows.
+Healthcare SaaS platform focused on **token management, appointment booking, and patient queue management**.
+
+**Includes**
+
+- Token booking
+- Appointment management
+- Live queue tracking
+- Walk-in tokens
+- Doctor & receptionist workflows
+- Multi-tenant architecture
+- Role-based access
+
+🎥 Token Platform Demo
+
+https://www.youtube.com/watch?v=j6HbVPRnDqs&t=294s
 
 `React` `Node.js` `PostgreSQL` `Supabase`
 
@@ -99,42 +137,47 @@ A **SaaS token & appointment management platform** built for healthcare workflow
 
 ### 🪪 LEADA360 Connect
 
-A **digital business card SaaS platform** for creating and sharing professional digital identities.
+Digital business card platform for creating and sharing professional digital identities.
+
+🔗 https://connect.leada360.com/card/selva-saravana-raj-j-jkfq
+
+**Includes**
+
+- Digital professional profiles
+- Custom profile URLs
+- Profile management
+- Contact sharing
+- Responsive web experience
 
 `React` `Supabase` `PostgreSQL` `Tailwind CSS`
 
 ---
 
-# 🤖 AI-Assisted Development
+# 🤝 How I Work
 
-AI is part of my everyday development workflow.
+I believe good software is rarely built alone.
 
-I use AI to:
+I enjoy:
 
-- Explore implementation approaches
-- Debug complex issues
-- Refactor code
-- Understand unfamiliar technologies
-- Generate test cases
-- Review implementations
-- Explore architecture options
-- Speed up repetitive development
-
-My approach:
+- Working with developers and cross-functional teams
+- Understanding business requirements
+- Breaking problems into smaller technical tasks
+- Reviewing and improving implementations
+- Debugging issues together
+- Sharing knowledge and learning from others
+- Taking ownership of features from development to deployment
 
 ```text
 Understand
     ↓
-Explore
+Plan
     ↓
 Build
     ↓
-Debug
-    ↓
-Understand Again
+Collaborate
     ↓
 Test
     ↓
-Ship
+Deploy
     ↓
 Improve
