@@ -4,7 +4,7 @@
 
 Software Development Engineer building and contributing to **SaaS products, enterprise systems, B2B platforms and production web applications**.
 
-I enjoy working across the full development lifecycle — understanding requirements, designing solutions, building features, integrating systems, debugging, deploying and improving them with a team.
+I enjoy working across the full development lifecycle understanding requirements, designing solutions, building features, integrating systems, debugging, deploying and improving them with a team.
 
 ---
 
