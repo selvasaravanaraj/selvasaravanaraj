@@ -26,122 +26,208 @@ I also enjoy working with teams, collaborating on technical problems, and turnin
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
 
-`React` `Next.js` `Angular` `TypeScript` `JavaScript`
-
-`Vite` `HTML5` `CSS3` `Tailwind CSS` `Material UI`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,vite,html,css,tailwind,materialui" />
+</p>
 
 ### Backend
 
-`Node.js` `Express.js` `REST APIs`
-
-`JWT` `OAuth` `Webhooks`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
 
-`PostgreSQL` `Supabase` `MongoDB`
-
-`RLS` `Database Design` `Indexing`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" />
+</p>
 
 ### Cloud & DevOps
 
-`AWS` `Vercel` `Render`
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github" />
+</p>
 
-`Git` `GitHub` `CI/CD`
+### APIs & Integrations
 
-### Integrations & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
 
-`API Integration` `REST API Integration` `Third-Party API Integration`
-
-`Razorpay` `Chargebee` `Zoho APIs`
-
-`AWS SES` `Webhooks`
+<p>
+  <img src="https://img.shields.io/badge/API%20Integration-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Razorpay-0F4CFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chargebee-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zoho%20APIs-C0392B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge" />
+</p>
 
 ---
 
 # 🚀 Things I've Worked On
 
-### 🏢 NVRON ERP
+## 🏢 NVRON ERP
 
-Enterprise ERP system developed for **NVRON**, covering business and operational workflows.
+Enterprise ERP system developed for **NVRON**, supporting business and operational workflows.
 
-**Focus Areas**
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RLS-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SMTP-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zoho%20API-C0392B?style=for-the-badge" />
+</p>
+
+### Focus Areas
 
 - Enterprise business workflows
 - Operational management
-- Database-driven applications
 - Role-based access
-- API-based architecture
-
-`React` `Node.js` `Express.js` `PostgreSQL`
+- Secure authentication
+- Database-driven applications
+- API integrations
+- Email & notification workflows
+- Row-Level Security
 
 ---
 
-### 📊 NVRON RCOS
+## 📊 NVRON RCOS
 
-Business platform developed for **NVRON**, supporting operational and business workflows.
+Business and operations platform developed for **NVRON**.
 
-**Focus Areas**
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Razorpay-0F4CFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RLS-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge" />
+</p>
+
+### Focus Areas
 
 - Business workflow management
-- Customer & lead operations
-- Data-driven processes
+- Lead & customer operations
 - CRM workflows
-- API integrations
-
-`React` `Node.js` `Express.js` `Supabase`
+- Data-driven processes
+- Payment integration
+- API integration
+- State management
+- Server-state management
+- Secure data access
 
 ---
 
-### 🌐 Veerix Biotech
+## 🌐 Veerix Biotech
 
-B2B **SEO-optimized website** developed for Veerix Biotech.
+B2B **SEO-optimized website and marketplace experience** developed for Veerix Biotech.
 
 🔗 https://www.veerixbiotech.in/
 
-**Focus Areas**
+### Focus Areas
 
-- B2B website development
-- SEO optimization
-- Responsive UI
-- Business-focused web experience
+- 📱 Responsive UI
+- 🔍 SEO optimization
+- 📱 Mobile optimized
+- 🖥️ Desktop optimized
+- 🛒 B2B marketplace experience
+- ⚡ Performance-focused web experience
+- 📈 Search-engine-friendly structure
 
-`React` `SEO` `Responsive UI` `Web Development`
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20Optimized-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop%20Optimized-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B2B%20Marketplace-F59E0B?style=for-the-badge" />
+</p>
 
 ---
 
-### 🏥 LEADA360 Token
+# 🏥 LEADA360 Token
 
 Healthcare SaaS platform focused on **token management, appointment booking, and patient queue management**.
 
-**Includes**
+### Features
 
-- Token booking
-- Appointment management
-- Live queue tracking
-- Walk-in tokens
-- Doctor & receptionist workflows
-- Multi-tenant architecture
-- Role-based access
+- 🎟️ Token booking
+- 📅 Appointment management
+- 📊 Live queue tracking
+- 🚶 Walk-in tokens
+- 👨‍⚕️ Doctor workflows
+- 🧑‍💼 Receptionist workflows
+- 🏢 Multi-tenant architecture
+- 🔐 Role-based access
 
-🎥 Token Platform Demo
+### Tech Stack
 
-https://www.youtube.com/watch?v=j6HbVPRnDqs&t=294s
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
 
-`React` `Node.js` `PostgreSQL` `Supabase`
+<p>
+  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Razorpay-0F4CFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AES--256%20Encryption-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rate%20Limiting-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Input%20Validation-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CORS-475569?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure%20Headers-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tenant%20Isolation-2563EB?style=for-the-badge" />
+</p>
+
+### Security Focus
+
+- JWT-based authentication
+- Role-Based Access Control
+- AES-256 encryption
+- Tenant-level data isolation
+- Input validation
+- Rate limiting
+- CORS controls
+- Secure HTTP headers
+- Secure environment variable handling
+- Protected API endpoints
+
+### Demo
+
+🎥 https://www.youtube.com/watch?v=j6HbVPRnDqs&t=294s
 
 ---
 
-### 🪪 LEADA360 Connect
+# 🪪 LEADA360 Connect
 
 Digital business card platform for creating and sharing professional digital identities.
 
-🔗 https://connect.leada360.com/card/selva-saravana-raj-j-jkfq
-
-**Includes**
+### Features
 
 - Digital professional profiles
 - Custom profile URLs
@@ -149,7 +235,13 @@ Digital business card platform for creating and sharing professional digital ide
 - Contact sharing
 - Responsive web experience
 
-`React` `Supabase` `PostgreSQL` `Tailwind CSS`
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,supabase,postgres,tailwind" />
+</p>
+
+🔗 https://connect.leada360.com/card/selva-saravana-raj-j-jkfq
 
 ---
 
